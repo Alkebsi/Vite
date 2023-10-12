@@ -1,0 +1,2 @@
+# Vite
+Vite project template
